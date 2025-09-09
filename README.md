@@ -1,4 +1,4 @@
-<img src="./assets/banner.webp" width="150">
+<img src="./assets/banner.webp">
 
 ## 👋 Hola, soy Esteban Heredia  
 
